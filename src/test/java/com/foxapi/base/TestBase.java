@@ -1,7 +1,6 @@
 /*
- * Author: Hemant Choudhari
+ * Author: Vasanth Dama
  * summary: Used Test case for logging the status using Log4j
- * Date: 09/14/2019
  */
 
 package com.foxapi.base;
