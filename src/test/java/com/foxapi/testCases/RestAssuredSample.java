@@ -1,6 +1,6 @@
 /*
  * Author: Vasanth Dama
- * summary: Test Case 1 Add Place
+ * summary: Test Case 1 Add Place.
  */
 
 /******************************************************
